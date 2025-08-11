@@ -1,0 +1,309 @@
+[
+  {
+    "question": "What does ISO/IEC 27001 provide?",
+    "options": [
+      "Guidelines for implementing an information security management system",
+      "Requirements for implementing an information security management system",
+      "Guidelines and requirements for implementing a privacy information management system"
+    ],
+    "correct": 1,
+    "explanation": "ISO/IEC 27001 specifies the requirements for establishing, implementing, maintaining, and continually improving an information security management system and assessing and treating information security risks."
+  },
+  {
+    "question": "Which of the following statements is correct?",
+    "options": [
+      "Organizations can obtain certification against ISO/IEC 27001",
+      "Organizations can obtain certification against ISO/IEC 27003",
+      "Organizations can obtain certification against ISO/IEC 27005"
+    ],
+    "correct": 0,
+    "explanation": "Organizations can obtain certification against ISO management system standards that specify requirements, but not against ISO standards that provide guidelines. ISO/IEC 27001 is management system standard that provides requirements."
+  },
+  {
+    "question": "Which of the following standards provides a reference set of information security controls and guidelines for their implementation?",
+    "options": [
+      "ISO/IEC 27002",
+      "ISO/IEC 27701",
+      "ISO/IEC 27005"
+    ],
+    "correct": 0,
+    "explanation": "ISO/IEC 27002 provides a set of information security controls and guidelines for their selection, implementation, and management."
+  },
+  {
+    "question": "In what areas do ISO/IEC 27001 and the General Data Protection Regulation (GDPR) overlap?",
+    "options": [
+      "PII collection and processing and the rights of data subjects",
+      "Data confidentiality, availability, and integrity, and risk assessment",
+      "Physical security, access control, and continual improvement"
+    ],
+    "correct": 1,
+    "explanation": "The implementation of ISO/IEC 27001 controls can help ensure compliance with the GDPR in areas such as data confidentiality, availability, and integrity, and risk assessment."
+  },
+  {
+    "question": "What does STAR, a three-tiered cloud provider assurance program, stand for?",
+    "options": [
+      "Security, Trust, Assurance, and Risk",
+      "Security, Task, Action, and Results",
+      "Security, Transparency, Assurance, and Response"
+    ],
+    "correct": 0,
+    "explanation": "CSA has a three-tiered cloud provider assurance program known as the CSA Security, Trust, Assurance, and Risk (STAR)."
+  },
+  {
+    "question": "A management system is a set of interrelated or interacting elements of an organization to establish policies, objectives, and processes to achieve those objectives.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "According to ISO/IEC 27000, a management system is a set of interrelated or interacting elements of an organization to establish policies and objectives, as well as processes to achieve those objectives."
+  },
+  {
+    "question": "What is an integrated management system (IMS)?",
+    "options": [
+      "A management system that integrates all the guidelines and best practices so as to enable the achievement of its purpose and mission",
+      "A management system that integrates all the components of a business into a coherent system so as to enable the achievement of its purpose and mission",
+      "A management system that integrates all frameworks and resources so as to enable the achievement of its purpose and mission"
+    ],
+    "correct": 1,
+    "explanation": "An integrated management system (IMS) enables the integration of all the components of a business, which allows an organization to achieve its purpose and mission."
+  },
+  {
+    "question": "Which of the following is a benefit of an effective ISMS?",
+    "options": [
+      "Reducing information security risks",
+      "Completely eliminating information security risks",
+      "Preventing all data breaches"
+    ],
+    "correct": 0,
+    "explanation": "An effective ISMS helps an organization in reducing information security risks and minimizing exposure to information security breaches, protecting assets and sensitive information."
+  },
+  {
+    "question": "Annex A of ISO/IEC 27001 consists of 114 controls divided into five themes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explanation": "Annex A of ISO/IEC 27001 consists of 93 controls that are categorized into four themes: organizational, people, physical, and technological."
+  },
+  {
+    "question": "How is the process approach defined?",
+    "options": [
+      "A systematic approach for an organization's information security to achieve business objectives",
+      "Integration of the ISMS into the context of commercial activities and processes across the organization",
+      "Identification and orderly management of processes within an organization"
+    ],
+    "correct": 2,
+    "explanation": "The identification and orderly management of processes within an organization, especially the interactions of processes, is called 'process approach.'"
+  },
+  {
+    "question": "Which of the following is considered a virtual organizational asset?",
+    "options": [
+      "Email accounts",
+      "Intellectual property",
+      "Digital customer identity"
+    ],
+    "correct": 1,
+    "explanation": "Organizational assets include virtual assets, such as online branding, reputation, business plans, and intellectual property, and physical assets, such as servers, connected cables, and workstations."
+  },
+  {
+    "question": "Which of the following statements regarding information security is correct?",
+    "options": [
+      "Information security entails the protection of the confidentiality, integrity, and availability of information regardless of its type and form",
+      "Information security entails the protection of the confidentiality, integrity, and availability of digital data only",
+      "Information security entails the protection of the confidentiality, integrity, and availability of physical data only"
+    ],
+    "correct": 0,
+    "explanation": "Information security covers information of all types, printed or handwritten, transmitted via email or website, as well as information given during conversations."
+  },
+  {
+    "question": "What does confidentiality require?",
+    "options": [
+      "That only authorized users have access to protected and sensitive information",
+      "That information is accurate and complete and not modified during storage or transit",
+      "That information is accessible when, where, and as required and to the person requiring"
+    ],
+    "correct": 0,
+    "explanation": "Confidentiality requires that only authorized users have access to protected and sensitive data."
+  },
+  {
+    "question": "Which of the following is NOT an example of a threat?",
+    "options": [
+      "Theft of media or documents",
+      "Unencrypted data",
+      "Unauthorized use of a system"
+    ],
+    "correct": 1,
+    "explanation": "A threat is the potential cause of an unwanted incident that can harm the system or the organization. Unencrypted data is a vulnerability, not a threat."
+  },
+  {
+    "question": "Which information security principle would likely be impacted by a service interruption?",
+    "options": [
+      "Availability",
+      "Confidentiality",
+      "Integrity"
+    ],
+    "correct": 0,
+    "explanation": "Service interruption can potentially affect the availability of information because in such cases the information may not be accessible when, where, or as required."
+  },
+  {
+    "question": "Vulnerability is a weakness of an asset or control that can be exploited by one or more threats.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "ISO/IEC 27000 defines vulnerability as a weakness of an asset or control that can be exploited by one or more threats."
+  },
+  {
+    "question": "What type of controls are the segregation of duties, job rotations, and approval processes?",
+    "options": [
+      "Technical controls",
+      "Managerial controls",
+      "Administrative controls"
+    ],
+    "correct": 2,
+    "explanation": "Segregation of duties, job rotations, and approval processes are controls related to the organizational structure, hence, part of administrative controls."
+  },
+  {
+    "question": "What function does the control for the separation of the development, testing, and operating environments have?",
+    "options": [
+      "Preventive",
+      "Detective",
+      "Corrective"
+    ],
+    "correct": 0,
+    "explanation": "The separation of development, testing, and operating environment reduces the risk of unauthorized access or changes to the operational environment, preventing any potential incident. As such, it is a preventive control."
+  },
+  {
+    "question": "An organization has installed alarm systems on its premises. What type of control is this, and what function does it have?",
+    "options": [
+      "Administrative, preventive",
+      "Managerial, corrective",
+      "Technical, detective"
+    ],
+    "correct": 2,
+    "explanation": "By function, alarms are detective controls that help detect risks. By type, a fire alarm is a technical control because it requires technical installation."
+  },
+  {
+    "question": "Assets can have __________________ that can be exploited by __________________.",
+    "options": [
+      "Threats, vulnerabilities",
+      "Vulnerabilities, threats",
+      "Threats, risks"
+    ],
+    "correct": 1,
+    "explanation": "A vulnerability is the weakness of an asset that can be exploited by one or more threats."
+  },
+  {
+    "question": "Which implementation approach includes the application of best practices in project management?",
+    "options": [
+      "Business approach",
+      "Iterative approach",
+      "Systematic approach"
+    ],
+    "correct": 2,
+    "explanation": "The systematic approach refers to the application of best practices in project management, such as ISO 10006."
+  },
+  {
+    "question": "What is the correct definition of the term project?",
+    "options": [
+      "A unique process consisting of a set of coordinated and controlled activities to achieve an objective conforming to specific requirements",
+      "The smallest identified object of work in an organization",
+      "The process of planning, organizing, controlling, and reporting of a set of activities to achieve objectives"
+    ],
+    "correct": 0,
+    "explanation": "According to ISO 9000, a project is defined as a unique process consisting of a set of coordinated and controlled activities with start and finish dates, undertaken to achieve an objective conforming to specific requirements."
+  },
+  {
+    "question": "Which of the following statements regarding the ISMS is correct?",
+    "options": [
+      "New technologies should be integrated when implementing the ISMS to optimize processes",
+      "The roles and responsibilities of interested parties relevant to the ISMS should be defined after the implementation process",
+      "The ISMS should be integrated into existing processes of the organization"
+    ],
+    "correct": 2,
+    "explanation": "The initial system should be designed with the technology that is already in place within the organization; the optimization of the ISMS with more efficient technologies can be completed in the continual improvement phase."
+  },
+  {
+    "question": "Which of the following is NOT a factor that determines the approach for implementing an ISMS?",
+    "options": [
+      "Maturity level of controls and processes",
+      "Applicable laws and regulations",
+      "Dependence on technology"
+    ],
+    "correct": 2,
+    "explanation": "Factors which determine the ISMS implementation approach include the speed of implementation and deadlines, the maturity level of controls and processes, the implementation scope, the applicable laws and regulations, and the top management support."
+  },
+  {
+    "question": "What is the iterative approach?",
+    "options": [
+      "Overall implementation of the ISMS processes, not by isolating certain processes",
+      "Rapid implementation of the ISMS by adhering to the minimum requirements of the standard and proceeding with continual improvement thereafter",
+      "Harmonization of the ISMS with other management systems established within the organization"
+    ],
+    "correct": 1,
+    "explanation": "Options A and C correspond to the systems approach and the integrated approach, respectively."
+  },
+  {
+    "question": "Why is it important to understand the mission, objectives, values, and strategies of an organization?",
+    "options": [
+      "To facilitate the internal audit process",
+      "To create a map of all the processes",
+      "To ensure consistent alignment with information security goals"
+    ],
+    "correct": 2,
+    "explanation": "Understanding an organization's mission, objectives, values, and strategies ensures consistent alignment with information security goals and addresses market-specific security challenges and risks."
+  },
+  {
+    "question": "What does ISO/IEC 27001 require for establishing information security objectives, among others?",
+    "options": [
+      "To involve all stakeholders",
+      "To retain documented information",
+      "To evaluate their achievement quarterly"
+    ],
+    "correct": 1,
+    "explanation": "Based on ISO/IEC 27001, information security objectives must be measurable, if practicable."
+  },
+  {
+    "question": "______________________________________ is a person or an organization that can affect, be affected by, or perceive itself to be affected by a decision or activity.",
+    "options": [
+      "A customer",
+      "An interested party",
+      "A provider"
+    ],
+    "correct": 1,
+    "explanation": "ISO 9000 defines an interested party as a 'person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity.'"
+  },
+  {
+    "question": "Which of the following is NOT an element that should be considered when analyzing the organization's internal context?",
+    "options": [
+      "Competitors",
+      "Governance and organizational structure",
+      "Information flows and decision-making processes"
+    ],
+    "correct": 0,
+    "explanation": "The internal context can include, among others, governance, organizational structure, information flows and decision-making processes. Competitors are analyzed during the identification and analysis of interested parties."
+  },
+  {
+    "question": "Which of the following requirements of interested parties must organizations consider, according to clause 4.2 of ISO/IEC 27001?",
+    "options": [
+      "Legal and regulatory requirements",
+      "Climate change requirements",
+      "Both A and B"
+    ],
+    "correct": 2,
+    "explanation": "According to clause 4.2 of ISO/IEC 27001, Understanding the needs and expectations of interested parties, the organization must determine the relevant requirements of interested parties, which can include legal and regulatory requirements and contractual obligations and requirements related to climate change."
+  },
+  {
+    "question": "What factors can affect the ISMS scope, among others?",
+    "options": [
+      "Support functions, such as IT services and software applications",
+      "The outsourced functions",
+      "Both A and B"
+    ],
+    "correct": 2,
+    "explanation": "An organization should consider all functions that are outsourced including those to independent suppliers when determining the scope of the ISMS."
+  }
+]
