@@ -4,6 +4,12 @@ A comprehensive web-based practice exam application for ISO/IEC 27001 Informatio
 
 ## 🎯 Features
 
+### Exam Selection & Navigation
+- **Multi-Exam Platform**: Beautiful landing page for selecting different ISO certifications
+- **ISO 27001:2022**: Complete ISMS practice exam (currently available)
+- **ISO 22301:2019**: BCMS practice exam (coming soon)
+- **Intuitive Navigation**: Seamless switching between exam types
+
 ### Exam Functionality
 - **Authentic PECB Format**: Default 80 questions in 180 minutes (3 hours)
 - **Customizable Settings**: Adjust number of questions (5-62) and duration (10-480 minutes)
@@ -23,7 +29,10 @@ A comprehensive web-based practice exam application for ISO/IEC 27001 Informatio
 - **Detailed Review**: Question-by-question answer analysis
 - **Visual Feedback**: Wrong answers highlighted in red, correct in green
 - **Time Tracking**: Shows total time taken for the exam
-- **Performance Insights**: Comprehensive score breakdown
+- **Performance Analytics**: Comprehensive dashboard with trends and insights
+- **Exam History**: Automatic storage of all exam attempts
+- **Weak Area Analysis**: Identifies knowledge gaps by category
+- **Progress Tracking**: Visual charts showing improvement over time
 
 ### User Interface
 - **Modern Design**: Clean, professional interface with gradient backgrounds
@@ -97,7 +106,32 @@ The application uses a JSON-based question bank located at `src/questions.json`.
 - Compliance and audit requirements
 - Continual improvement processes
 
+## 📊 Analytics & Reporting Features
+
+### Performance Dashboard
+- **Overview Statistics**: Total exams, average score, pass rate, and study time
+- **Improvement Trends**: Visual charts showing progress over time
+- **Weak Area Analysis**: Identifies knowledge gaps by subject category
+- **Recent Performance**: Quick view of latest exam results
+
+### Data Insights
+- **Automatic History Storage**: All exam attempts saved locally
+- **Category Performance**: Breakdown by Risk Management, Security Controls, ISMS Framework, etc.
+- **Time Analytics**: Average time per exam and total study time tracking
+- **Improvement Tracking**: Compares recent vs. early performance to show progress
+
+### Visual Analytics
+- **Interactive Charts**: Performance trends with hover details
+- **Progress Bars**: Visual representation of category strengths/weaknesses
+- **Color-coded Feedback**: Instant visual feedback on performance levels
+- **Responsive Design**: Analytics work seamlessly on all devices
+
 ## 🎮 How to Use
+
+### Selecting an Exam
+1. **Choose Certification**: Select from available ISO certification exams
+2. **View Details**: Each exam shows difficulty, duration, and key features
+3. **Start Practice**: Click to begin your chosen certification path
 
 ### Starting an Exam
 1. **Configure Settings**: Choose number of questions and duration
@@ -113,6 +147,12 @@ The application uses a JSON-based question bank located at `src/questions.json`.
 - **Score Analysis**: View your percentage and pass/fail status
 - **Answer Review**: See correct answers with explanations
 - **Performance Insights**: Understand areas for improvement
+
+### Viewing Analytics
+- **Access Dashboard**: Click "📊 View Analytics" from the exam setup page
+- **Track Progress**: Review performance trends and improvement over time
+- **Identify Weak Areas**: See which knowledge areas need more focus
+- **Performance Overview**: Get comprehensive statistics about your preparation
 
 ## 🛠️ Technical Details
 
